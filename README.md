@@ -9,11 +9,11 @@ Bem-vindos ao desafio "Aprendendo na Prática o Paradigma de Orientação a Obje
 ✅ Conta no GitHub<br>
 
 👣 Passo-a-Passo
-Abstrair o domínio do Bootcamp e modelar seus atributos e métodos.
-Criar as classes Bootcamp, Cursos, Mentorias e Devs, estabelecendo relações.
-Modelar as classes Curso, Mentoria e Devs, definindo atributos e métodos.
-Utilizar ferramentas de POO como Abstração, Encapsulamento, Herança e Polimorfismo para melhorar o código.
-Transformar as classes criadas em objetos para representar o relacionamento.
+1 - Abstrair o domínio do Bootcamp e modelar seus atributos e métodos.
+2 - Criar as classes Bootcamp, Cursos, Mentorias e Devs, estabelecendo relações.
+3 - Modelar as classes Curso, Mentoria e Devs, definindo atributos e métodos.
+4 - Utilizar ferramentas de POO como Abstração, Encapsulamento, Herança e Polimorfismo para melhorar o código.
+5 - Transformar as classes criadas em objetos para representar o relacionamento.
 📚 Paradigma de Programação Orientado a Objetos (POO)
 Visão de um mundo de objetos que interagem, baseado em 4 pilares: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO.
 
