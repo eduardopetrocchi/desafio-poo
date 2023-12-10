@@ -1,7 +1,7 @@
-Desafio: Aprenda POO na Prática
+Desafio: Aprenda POO na Prática<br>
 Bem-vindos ao desafio "Aprendendo na Prática o Paradigma de Orientação a Objetos", criado em parceria com a Digital Innovation One. O objetivo é aplicar conceitos como ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO em um projeto Java.
 
-🛑 Pré-Requisitos
+🛑 Pré-Requisitos<br>
 ✅ Conhecimento em Java<br>
 ✅ Java JDK 11<br>
 ✅ IDE Java (utilizo: VSC)<br>
