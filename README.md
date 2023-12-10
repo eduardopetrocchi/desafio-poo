@@ -8,7 +8,7 @@ Bem-vindos ao desafio "Aprendendo na Prática o Paradigma de Orientação a Obje
 ✅ Git<br>
 ✅ Conta no GitHub<br>
 
-👣 Passo-a-Passo
+👣 Passo-a-Passo<br>
 1 - Abstrair o domínio do Bootcamp e modelar seus atributos e métodos.<br>
 2 - Criar as classes Bootcamp, Cursos, Mentorias e Devs, estabelecendo relações.<br>
 3 - Modelar as classes Curso, Mentoria e Devs, definindo atributos e métodos.<br>
