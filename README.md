@@ -9,32 +9,33 @@ Bem-vindos ao desafio "Aprendendo na Prática o Paradigma de Orientação a Obje
 ✅ Conta no GitHub<br>
 
 👣 Passo-a-Passo
-1 - Abstrair o domínio do Bootcamp e modelar seus atributos e métodos.
-2 - Criar as classes Bootcamp, Cursos, Mentorias e Devs, estabelecendo relações.
-3 - Modelar as classes Curso, Mentoria e Devs, definindo atributos e métodos.
-4 - Utilizar ferramentas de POO como Abstração, Encapsulamento, Herança e Polimorfismo para melhorar o código.
-5 - Transformar as classes criadas em objetos para representar o relacionamento.
-📚 Paradigma de Programação Orientado a Objetos (POO)
+1 - Abstrair o domínio do Bootcamp e modelar seus atributos e métodos.<br>
+2 - Criar as classes Bootcamp, Cursos, Mentorias e Devs, estabelecendo relações.<br>
+3 - Modelar as classes Curso, Mentoria e Devs, definindo atributos e métodos.<br>
+4 - Utilizar ferramentas de POO como Abstração, Encapsulamento, Herança e Polimorfismo para melhorar o código.<br>
+5 - Transformar as classes criadas em objetos para representar o relacionamento.<br>
+
+📚 Paradigma de Programação Orientado a Objetos (POO)<br>
 Visão de um mundo de objetos que interagem, baseado em 4 pilares: ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO.
 
-🔺 ABSTRAÇÃO
+🔺 ABSTRAÇÃO<br>
 Concentração nos aspectos essenciais de um domínio, ignorando características menos importantes.
 
-🔺 ENCAPSULAMENTO
+🔺 ENCAPSULAMENTO<br>
 Esconde a implementação dos objetos, favorecendo manutenção e evolução do sistema.
 
-🔺 HERANÇA
+🔺 HERANÇA<br>
 Permite que uma classe filha reutilize, estenda ou modifique o comportamento de uma classe pai.
 
-🔺 POLIMORFISMO
+🔺 POLIMORFISMO<br>
 Capacidade de um objeto ser referenciado de várias formas.
 
-🧮 Linguagem de Programação vs Paradigma
+🧮 Linguagem de Programação vs Paradigma<br>
 LINGUAGEM DE PROGRAMAÇÃO é uma linguagem formal para escrever códigos. Exemplos: Java, C++, Python.
 
 PARADIGMA DE LINGUAGEM DE PROGRAMAÇÃO é um conjunto de características que categoriza um grupo de linguagens. Exemplos: Programação Estruturada, Orientada a Objetos, Funcional.
 
-🤝 Contribuindo
+🤝 Contribuindo<br>
 Este repositório é para estudo, contribua! Se ajudou, compartilhe. Contribua com ⭐️, encontre e relate issues.
 
 Disponibilizado por Eduardo Petrocchi.
